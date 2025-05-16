@@ -21,3 +21,9 @@ Beyond code, I'm a fan of books 📚, motorcycles 🏍️, and chats over a good
 <a href= "https://www.linkedin.com/in/yamila-silva-711634171/">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=YamilaAS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YamilaAS)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=YamilaAS&theme=material-palenight)](https://github.com/YamilaAS)
+</div>
